@@ -1,6 +1,6 @@
 # Welcome to Froggy's Github 🐸
 
-> ## I'm currently learning Front-End stuff to be one of them in KOREA 🇰🇷 <br>I’m currently joining [Front-End Bootcamp](https://fastcampus.co.kr/b2g_MegabyteSchool_feproject) and will complete after 4 month 🔥 <br> Just started 🖊 **[BLOG](https://evan6-6.tistory.com)** to record that I learn daily. Maybe you can check it out and feel free to leave a comment or feedback 
+> ## I'm currently learning Front-End stuff to be one of them in KOREA 🇰🇷 <br>I’m currently joining [Front-End Bootcamp](https://fastcampus.co.kr/b2g_MegabyteSchool_feproject) and will complete after 4 month 🔥 <br> Just started 🖊 **[BLOG](https://evan6-6.tistory.com)** to record that I learn daily.<br> Maybe you can check it out and feel free to leave a comment or feedback 🗣
 
 
 <br>
