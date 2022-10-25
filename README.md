@@ -1,6 +1,28 @@
-# Welcome to Froggy's Github 🐸
+<div align="center">
 
-> ## I'm currently learning Front-End stuff to be one of them in KOREA 🇰🇷 <br>I’m currently joining [Front-End Bootcamp](https://fastcampus.co.kr/b2g_MegabyteSchool_feproject) and will complete after 4 month 🔥 <br> Just started 🖊 **[BLOG](https://evan6-6.tistory.com)** to record that I learn daily.<br> Maybe you can check it out and feel free to leave a comment or feedback 🗣
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=17A955&width=435&lines=Welcome+to+Froggy's+Github+%F0%9F%90%B8)](https://git.io/typing-svg)
+
+</div>
+
+
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=froggy1014&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://raw.githubusercontent.com/froggy1014/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/froggy1014/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/froggy1014/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/froggy1014/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=froggy1014&show_icons=true&theme=tokyonight)
+
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 
 
 <br>
@@ -15,21 +37,4 @@
 <br>
 
 
-
-
-## TMI 💁‍♂️
-
-  
-
-### I studied Electricity and Electronic Engineer in university ⚡️
-
-###  Born in 1997 🐮
-
-###  MBTI - ESTP 😎
-
-###  I had an IT internship in the United states 🇺🇸
-
-### I go crazy for going to karaoke 🎤
-
-###  Nickname is froggy cuz I have big eyeballs 👀
 
