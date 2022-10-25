@@ -18,9 +18,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=froggy1014&show_icons=true&theme=tokyonight)
 
 
-  <!--START_SECTION:waka-->
-  
-  <!--END_SECTION:waka-->
+
 
 
 
@@ -36,4 +34,6 @@
 <br>
 
 
-
+  <!--Waka:waka-->
+  
+  <!--Waka:waka-->
