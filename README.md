@@ -38,7 +38,6 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=froggy1014&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  <!--START_SECTION:waka-->
+ 
 <!--END_SECTION:waka-->
