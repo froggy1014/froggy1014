@@ -1,51 +1,41 @@
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=17A955&width=435&lines=Welcome+to+Froggy's+Github+%F0%9F%90%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=495f7e&width=435&lines=Welcome+to+Froggy's+Github+%F0%9F%90%B8)](https://git.io/typing-svg)
 
 </div>
 
-<div>
 
-<div align="center">
+Hi there! I'm just starting out in front-end development, but I'm really into keeping up with the latest trends and tech. I love diving into new innovations and staying right on the edge of what's new in web development.
 
-## 👌 Alright with
 
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<br/>
 
-<img alt="React" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Axios" src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=#5A29E4"/>
+<div align="left" color="495f7e">
 
-## 🤮 struggling with
-
-<img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img alt="RQ" src="https://img.shields.io/badge/React Query-121728?style=for-the-badge&logo=reactquery&logoColor=#FF4154"/> <img alt="RHF" src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/> <img alt="RHF" src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/>
-
-</div>
-
-</div>
-
-<br>
-
-<div align="left">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=froggy1014&show_icons=true&theme=tokyonight)
-
-</div>
-<div align="right">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=froggy1014&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Next.js](https://img.shields.io/badge/Next.js-495f7e?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-495f7e?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-495f7e?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-495f7e?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-495f7e?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-495f7e?style=flat-square&logo=reacthookform&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-495f7e?style=flat-square&logo=swr&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-495f7e?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-495f7e?style=flat-square&logo=flutter&logoColor=white)
 
 </div>
 
-<br>
+<br/>
 
- <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
+---
 
 
- Last Updated on 24/07/2023 18:33:44 UTC
-<!--END_SECTION:waka-->
+
+<a href="https://evan6-6.tistory.com/">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 459 459" width="20px"><g><path fill="#495f7e" d="M229.5,0C102.75,0,0,102.75,0,229.5S102.75,459,229.5,459,459,356.25,459,229.5,356.25,0,229.5,0ZM130.21,191.45a39.57,39.57,0,1,1,39.56-39.57A39.58,39.58,0,0,1,130.21,191.45ZM229.5,390a39.56,39.56,0,1,1,39.56-39.56A39.56,39.56,0,0,1,229.5,390Zm0-99.29a39.56,39.56,0,1,1,39.56-39.56A39.56,39.56,0,0,1,229.5,290.74Zm0-99.29a39.57,39.57,0,1,1,39.56-39.57A39.57,39.57,0,0,1,229.5,191.45Zm99.29,0a39.57,39.57,0,1,1,39.57-39.57A39.57,39.57,0,0,1,328.79,191.45Z"/></g></svg>
+</a>
+<a href="https://www.instagram.com/min6_6b/">
+  <img align="left" alt="Jeongmin's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://linkedin.com/in/정민-이-617a4a145">
+  <img align="left" alt="Jeongmin's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
