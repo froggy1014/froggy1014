@@ -29,7 +29,7 @@ Hi there! I'm just starting out in front-end development, but I'm really into ke
 ---
 
 
-<a href="https://evan6-6.tistory.com/">
+<a href="https://froggy1014.github.io">
    <img align="left" alt="Jeongmin's Instagram" width="20px" src="https://svgshare.com/i/10Q9.svg" />
 </a>
 <a href="https://www.instagram.com/min6_6b/">
