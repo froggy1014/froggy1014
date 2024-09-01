@@ -27,6 +27,8 @@
 
 [**TDD, 클린 코드 with JavaScript**](https://edu.nextstep.camp/): 📚 클린코드와 테스트 - 2023
 
+<br/>
+
 ## 🚀 Open Source
 
 - **Vonage/vonage-node-sdk**: 실제 유효성과 다른 테스트 코드 수정 및 jsDoc 개선 제안 - [PR](https://github.com/Vonage/vonage-node-sdk/pull/940)
