@@ -9,7 +9,7 @@
 
 ## 👟 Activities
 
-[**DND 해커톤**](https://festa.io/events/4978): 🏆 프리패스상 (기수 합류) - 2024
+[**DND 해커톤**](https://festa.io/events/4978): 🏆 특별상 - 2024
 
 [**Hack for public Good 해커톤**](https://event-us.kr/aiinnovation/event/80730): 🏆 2nd (KDI 국제정책대학원장상) - 2024
 
