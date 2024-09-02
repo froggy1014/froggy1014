@@ -1,9 +1,3 @@
-## 🐸 About Me
-
-🖐️ 아직까지는(?) 재밌게 코딩하고 있는 2년차 프론트엔드 개발자 이정민입니다.
-
-<br/>
-
 ## 🚧 Experiences
 
 |name|duration|as|
