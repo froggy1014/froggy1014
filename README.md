@@ -25,11 +25,11 @@
 
 ## 🚀 Open Source
 
-- **Vonage/vonage-node-sdk**: 실제 유효성과 다른 테스트 코드 수정 및 jsDoc 개선 제안 - [PR](https://github.com/Vonage/vonage-node-sdk/pull/940)
-- **Vonage/vonage-node-sdk**: 잘못된 타입 정의 및 테스트 코드 수정 - [PR](https://github.com/Vonage/vonage-node-sdk/pull/937)
-- **Vonage/vonage-node-sdk**: 잘못된 Linked URL 수정 - [PR](https://github.com/Vonage/vonage-node-sdk/pull/936)
-- **langchain-ai/langchainjs**: 랭체인 v2로 올라감에 따라 interface 재명명으로 인한 잘못된 URL 링크 수정 - [PR](https://github.com/langchain-ai/langchainjs/pull/5706)
-- **langchain-ai/langchainjs**: LangchainJS 공식문서 문맥 수정 - [PR](https://github.com/langchain-ai/langchainjs/pull/5674)
-- **reactjs/ko.react.dev**: React 한글 공식문서 번역 기여 - [PR](https://github.com/reactjs/ko.react.dev/pull/803)
-- **Nextjs-kr/Nextjs.kr**: Nextjs 한글 번역 기여 - [PR](https://github.com/Nextjs-kr/Nextjs.kr/pull/339)
-- **vercel/swr-site**: SWR 사이트 오탈자 수정 - [PR](https://github.com/vercel/swr-site/pull/472)
+- [**Vonage/vonage-node-sdk**](https://github.com/Vonage/vonage-node-sdk/pull/940): 실제 유효성과 다른 테스트 코드 수정 및 jsDoc 개선 제안 
+- [**Vonage/vonage-node-sdk**](https://github.com/Vonage/vonage-node-sdk/pull/937): 잘못된 타입 정의 및 테스트 코드 수정
+- [**Vonage/vonage-node-sdk**](https://github.com/Vonage/vonage-node-sdk/pull/936): 잘못된 Linked URL 수정
+- [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs/pull/5706): 랭체인 v2로 올라감에 따라 interface 재명명으로 인한 잘못된 URL 링크 수정
+- [**langchain-ai/langchainjs**](https://github.com/langchain-ai/langchainjs/pull/5674): LangchainJS 공식문서 문맥 수정 
+- [**reactjs/ko.react.dev**](https://github.com/reactjs/ko.react.dev/pull/803): React 한글 공식문서 번역 기여 
+- [**Nextjs-kr/Nextjs.kr**](https://github.com/Nextjs-kr/Nextjs.kr/pull/339): Nextjs 한글 번역 기여
+- [**vercel/swr-site**](https://github.com/vercel/swr-site/pull/472): SWR 사이트 오탈자 수정
