@@ -9,7 +9,7 @@
 
 ## 👟 Activities
 
-[데보션 OpenLab 프론트엔드 성능 최적화 스터디](https://devocean.sk.com/blog/techBoardDetail.do?ID=166865) - 📚 선정 [교재](https://product.kyobobook.co.kr/detail/S000200178292)로 최적화 스터디
+[데보션 OpenLab 프론트엔드 성능 최적화 스터디](https://froggy1014.github.io/blog/2024/12/6/devocean-study) - 📚 선정 [교재](https://product.kyobobook.co.kr/detail/S000200178292)로 최적화 스터디
 
 [IT 연합 동아리 DND 10기](https://dnd.ac/) -  💻 협업 [사이드 프로젝트](https://github.com/dnd-side-project/dnd-11th-5-frontend) 2024
 
