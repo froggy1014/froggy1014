@@ -24,9 +24,3 @@
 [**구름톤UNIV 해커톤 멘토 (벚꽃톤)**](https://9oormthon.university/project): 🔎 해커톤 참여 대학생을 대상으로 프론트엔드 멘토링 - 2024
 
 [**구름톤 해커톤**](https://9oormthon.goorm.io/b347a02d-8084-435f-9c16-22d0067e8ab5): 🏆 1st (카카오 이장상) - 2024
-
-[**Flutter in Songdo**](https://www.meetup.com/ko-KR/flutter-songdo/): 📚 플러터 이론 및 문법 스터디 - 2024
-
-[**TDD, 클린 코드 with JavaScript**](https://edu.nextstep.camp/): 📚 클린코드와 테스트 - 2023
-
-
