@@ -9,6 +9,8 @@
 
 ## 👟 Activities
 
+[**약학 창업 해커톤**](http://www.hitnews.co.kr/news/articleView.html?idxno=67095) 🏆 최우수상 - 2025
+
 [**구름톤UNIV 해커톤 멘토 (단풍톤)**](https://9oormthon.university/project): 🔎 해커톤 참여 대학생을 대상으로 프론트엔드 멘토링
 
 [데보션 OpenLab 프론트엔드 성능 최적화 스터디](https://froggy1014.github.io/blog/2024/12/6/devocean-study) - 📚 선정 [교재](https://product.kyobobook.co.kr/detail/S000200178292)로 최적화 스터디
